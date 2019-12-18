@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hezhang/learn-anything/learn-mlflow/mlruns/0/4f7aa97ef7f5429b8cd712d1172f4402/artifacts
+end_time: 1574837602273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4f7aa97ef7f5429b8cd712d1172f4402
+run_uuid: 4f7aa97ef7f5429b8cd712d1172f4402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1574837602085
+status: 3
+tags: []
+user_id: hezhang
